@@ -1,4 +1,4 @@
-# React advanced tests
+# React unit, screenshot, integration and e2e tests 
 
 ## To install npm scripts, you can run:
 
